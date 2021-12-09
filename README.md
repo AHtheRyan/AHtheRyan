@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ryan from P.R.China, major in EE.
+- 👋 Hi, I’m Ryan from P.R.China, major in EE Power Electronics.
 - 🌱 I’m currently struggling for my master degree in Fudan University.
 - 📫 If you have any questions or sugestions, contact me at RyanZ98@163.com
 
